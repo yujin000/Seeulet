@@ -24,7 +24,7 @@
 * **DataBase** : 
 * **Tool** : Gradle, IntelliJ IDEA
 * **etc** : Git
-* **Library** : CLOVA OCR, 사업자 인증 API
+* **Library** : CLOVA OCR, 사업자 인증 API, Geolocation API, OpenStreetMap, fetch API
 
 # 3. 기대효과
 **개인적 의의**
